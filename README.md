@@ -6,6 +6,7 @@ This repo is home to the code that accompanies Jidapa's *GEMINI-API Project* :
   - Data Handling: json
   - Environment Handling: dotenv
   - Deep Learning/AI: google-genai
+  - model: gemini-2.0-flash
 - **Provides**:
   - [main.py](https://github.com/JPP-J/DL-2_GEMINI_project/blob/c81b729a1182021d1f172847fbc93af52ea83abb/main.py) 
   - [example chat with GEMINI](https://github.com/JPP-J/DL-2_GEMINI_project/blob/c81b729a1182021d1f172847fbc93af52ea83abb/chat_his.json) 
