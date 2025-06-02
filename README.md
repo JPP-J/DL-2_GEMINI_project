@@ -1,4 +1,4 @@
-# GEMINI-API Projects'
+# GEMINI-API Projects
 ![Last Commit](https://img.shields.io/github/last-commit/JPP-J/DL-2_GEMINI_project?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-100%25-blue?style=flat-square)
 ![Languages](https://img.shields.io/github/languages/count/JPP-J/DL-2_GEMINI_project?style=flat-square)
@@ -11,5 +11,5 @@ This repo is home to the code that accompanies Jidapa's *GEMINI-API Project* :
   - Deep Learning/AI: google-genai
   - model: gemini-2.0-flash
 - **Provides**:
-  - [main.py](https://github.com/JPP-J/DL-2_GEMINI_project/blob/c81b729a1182021d1f172847fbc93af52ea83abb/main.py) 
-  - [example chat with GEMINI](https://github.com/JPP-J/DL-2_GEMINI_project/blob/c81b729a1182021d1f172847fbc93af52ea83abb/chat_his.json) 
+  - [main.py](main.py) 
+  - [example chat with GEMINI](chat_his.json) 
